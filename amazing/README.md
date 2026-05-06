@@ -233,6 +233,17 @@ python3 output_validator.py maze.txt
 
 Checks that neighboring cells have consistent walls (no gaps or overlaps).
 
+## Maze Generator Package (mazegen)
+
+This project is also available as a reusable Python package.
+
+### Installation
+
+Install from source:
+
+```bash
+pip install .
+
 ## Resources
 
 ### References
