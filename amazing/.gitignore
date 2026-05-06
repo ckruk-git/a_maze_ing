@@ -31,4 +31,5 @@ htmlcov/
 *.log
 .venv/
 venv/
+*.pyc
 ENV/
